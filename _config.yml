@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Artems notes
-email: blog@bogdart.com
+email: contact@bogdart.com
 description: >- # this means to ignore newlines until "baseurl:"
   YO.
 baseurl: "" # the subpath of your site, e.g. /blog
