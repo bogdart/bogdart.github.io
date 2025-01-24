@@ -21,7 +21,7 @@
 title: Artems notes
 email: contact@bogdart.com
 description: >- # this means to ignore newlines until "baseurl:"
-  YO.
+  Website of Artem Bogdanov
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bogdart.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bogdart
