@@ -21,7 +21,7 @@
 title: Artem Bogdanov
 email: contact@bogdart.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Applied Data Scientist interested in AI, ML, and data science.
+  Artem Bogdanov's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bogdart.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bogdart

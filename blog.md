@@ -3,6 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+# Under construction
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url | relative_url }})
