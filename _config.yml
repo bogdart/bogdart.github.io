@@ -30,6 +30,8 @@ linkedin_username: bogdart
 
 # Build settings
 theme: minima
+minima:
+  skin: solarized
 plugins:
   - jekyll-feed
 
