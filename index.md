@@ -1,10 +1,21 @@
 ---
 layout: home
+title: Welcome
+
 ---
 
-# Welcome
+Hi, I'm Artem Bogdanov, applied data scientist who loves new AI. If there’s a fresh model or a new tool, I’m probably testing it.
 
-Applied data scientist who loves new AI. If there’s a fresh model or tool, I’m probably testing it.
+## What I do
+
+ - Work with data to prepare inputs and insights.
+
+ - Build AI tools to solve real problems.
+
+ - Test new AI models and techniques.
+
+ - Deploy AI solutions and make them better.
+
 
 ## Connect With Me
 
